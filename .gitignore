@@ -1,0 +1,39 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Maven
+log/
+
+# Node
+node_modules/
+dist/
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Environment
+.env
+.env.local
+
+# Temp files
+*.tmp
+temp_*.sql
