@@ -1,0 +1,16 @@
+E:\EnglishWord\backend\src\main\java\com\vocab\config\CorsConfig.java
+E:\EnglishWord\backend\src\main\java\com\vocab\controller\VocabController.java
+E:\EnglishWord\backend\src\main\java\com\vocab\data\WordListData.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\BandResult.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\EstimationResult.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\FullResult.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\QuizWord.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\StudentType.java
+E:\EnglishWord\backend\src\main\java\com\vocab\model\WordEntry.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\EstimationService.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\estimator\FrequencyBandEstimator.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\estimator\IrtLogisticEstimator.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\estimator\SimpleProportionEstimator.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\estimator\ThresholdEstimator.java
+E:\EnglishWord\backend\src\main\java\com\vocab\service\QuizService.java
+E:\EnglishWord\backend\src\main\java\com\vocab\VocabApplication.java
